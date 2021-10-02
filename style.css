@@ -1,0 +1,26 @@
+body{
+   background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+#camera
+{
+    width:350px;
+    height: 350px;
+    border: 5px dashed  grey;
+}
+
+.style-two
+{
+    border: 0;
+height: 55px;
+background-image: url(type_2.webp);
+background-repeat: no-repeat;
+margin-left: 200px;
+}
+
+#text {
+    font-size: 25px;
+}
+
+#box{
+    border-style: dashed;
+}
